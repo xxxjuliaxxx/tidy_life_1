@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>38061758612-vkpkdn03mqatm0scv4ummshphdr40sbe.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.38061758612-vkpkdn03mqatm0scv4ummshphdr40sbe</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDJ7v46ajp-7m5sms9-HDhQFpo3TPSo7Vg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>38061758612</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.tidyLife1</string>
+	<key>PROJECT_ID</key>
+	<string>tidy-life-project333</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tidy-life-project333.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:38061758612:ios:2103a997931250aadd3c81</string>
+</dict>
+</plist>

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "38061758612",
+    "project_id": "tidy-life-project333",
+    "storage_bucket": "tidy-life-project333.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38061758612:android:e9ca8b54c233f7f8dd3c81",
+        "android_client_info": {
+          "package_name": "com.example.tidy_life_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38061758612-7amcg1ke0vn1juti5su0i2pf8jichnnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH5Wn989etny9o-yq9gMoRvL0agiQteL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38061758612-7amcg1ke0vn1juti5su0i2pf8jichnnp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "38061758612-vkpkdn03mqatm0scv4ummshphdr40sbe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tidyLife1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

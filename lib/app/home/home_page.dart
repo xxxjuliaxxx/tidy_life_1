@@ -2,8 +2,6 @@ import 'dart:ui';
 import 'package:tidy_life_1/app/login/login_page.dart';
 import 'package:flutter/material.dart';
 
-
-
 class MyHomePage extends StatefulWidget {
   const MyHomePage({super.key, required this.title});
 

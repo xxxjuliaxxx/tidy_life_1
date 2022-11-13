@@ -1,7 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:tidy_life_1/app/home/home_page.dart';
-
-
 
 class SecondPage extends StatefulWidget {
   const SecondPage({super.key, required this.title});
