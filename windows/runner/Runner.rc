@@ -89,11 +89,11 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.example" "\0"
+            VALUE "CompanyName", "com.juliaczaplejewicz" "\0"
             VALUE "FileDescription", "tidy_life_1" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "tidy_life_1" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2022 com.example. All rights reserved." "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2022 com.juliaczaplejewicz. All rights reserved." "\0"
             VALUE "OriginalFilename", "tidy_life_1.exe" "\0"
             VALUE "ProductName", "tidy_life_1" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"

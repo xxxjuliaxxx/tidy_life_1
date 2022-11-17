@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:38061758612:android:e9ca8b54c233f7f8dd3c81",
         "android_client_info": {
-          "package_name": "com.example.tidy_life_1"
+          "package_name": "com.juliaczaplejewicz.tidy_life_1"
         }
       },
       "oauth_client": [
@@ -34,7 +34,7 @@
               "client_id": "38061758612-vkpkdn03mqatm0scv4ummshphdr40sbe.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.example.tidyLife1"
+                "bundle_id": "com.juliaczaplejewicz.tidyLife1"
               }
             }
           ]

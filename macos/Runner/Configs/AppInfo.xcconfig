@@ -8,7 +8,7 @@
 PRODUCT_NAME = tidy_life_1
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.example.tidyLife1
+PRODUCT_BUNDLE_IDENTIFIER = com.juliaczaplejewicz.tidyLife1
 
 // The copyright displayed in application information
-PRODUCT_COPYRIGHT = Copyright © 2022 com.example. All rights reserved.
+PRODUCT_COPYRIGHT = Copyright © 2022 com.juliaczaplejewicz. All rights reserved.

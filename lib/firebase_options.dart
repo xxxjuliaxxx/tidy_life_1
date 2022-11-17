@@ -66,8 +66,9 @@ class DefaultFirebaseOptions {
     messagingSenderId: '38061758612',
     projectId: 'tidy-life-project333',
     storageBucket: 'tidy-life-project333.appspot.com',
-    iosClientId: '38061758612-vkpkdn03mqatm0scv4ummshphdr40sbe.apps.googleusercontent.com',
-    iosBundleId: 'com.example.tidyLife1',
+    iosClientId:
+        '38061758612-vkpkdn03mqatm0scv4ummshphdr40sbe.apps.googleusercontent.com',
+    iosBundleId: 'com.juliaczaplejewicz.tidyLife1',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
@@ -76,7 +77,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '38061758612',
     projectId: 'tidy-life-project333',
     storageBucket: 'tidy-life-project333.appspot.com',
-    iosClientId: '38061758612-vkpkdn03mqatm0scv4ummshphdr40sbe.apps.googleusercontent.com',
-    iosBundleId: 'com.example.tidyLife1',
+    iosClientId:
+        '38061758612-vkpkdn03mqatm0scv4ummshphdr40sbe.apps.googleusercontent.com',
+    iosBundleId: 'com.juliaczaplejewicz.tidyLife1',
   );
 }

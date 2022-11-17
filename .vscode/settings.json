@@ -1,0 +1,6 @@
+{
+    "search.globalFindClipboard": true,
+    "editor.find.globalFindClipboard": true,
+    "search.useGlobalIgnoreFiles": true,
+    "editor.bracketPairColorization.enabled": true
+}
